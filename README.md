@@ -47,17 +47,15 @@ After training the models and comparing the results, it can be said that the XGB
 Classifier model has performed better than the other models.
 ![image](https://user-images.githubusercontent.com/30859632/183070809-893adb44-c260-4254-a3af-d537d95f18f3.png)
 
+Feature Importance:![image](https://user-images.githubusercontent.com/30859632/183071090-b6cefc26-8e19-4044-b8a8-2b2198b2154e.png)
 
 ![image](https://user-images.githubusercontent.com/30859632/183070869-b5a47bc1-1d2e-4f0c-bcaa-677137120886.png)
 
-Feature Importance:![image](https://user-images.githubusercontent.com/30859632/183071090-b6cefc26-8e19-4044-b8a8-2b2198b2154e.png)
-Most important feature according to Logistic Regression
-Model is Vehicle Damage followed by Age
 
 Previously Insured and Vehicle Damage are most important  features according to XGB Model.
 ![image](https://user-images.githubusercontent.com/30859632/183071111-59efc0b1-7ce4-4f42-ad6c-f93be36b47cc.png)
 
-#Conclusion:![image](https://user-images.githubusercontent.com/30859632/183071166-cc2dac2a-6355-4ad3-893c-de33ba48a9d2.png)
+![image](https://user-images.githubusercontent.com/30859632/183071166-cc2dac2a-6355-4ad3-893c-de33ba48a9d2.png)
 ![image](https://user-images.githubusercontent.com/30859632/183071424-01294208-26b3-414b-a98f-f2eb105a6450.png)
 
 This means our model can improve our response rate for predicting customers who interested in subscribing vehicle insurance
