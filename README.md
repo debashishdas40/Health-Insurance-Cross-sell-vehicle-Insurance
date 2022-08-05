@@ -32,10 +32,6 @@ Therefore, the model not only helped identify a large part of the potential vehi
 
 
 # ML Models Used ![image](https://user-images.githubusercontent.com/30859632/183070499-4e4bf4d5-cce2-4a88-b94d-e99200dc0dbb.png)
-1) Logistic Regression
-2) Random Forest Classifier
-3) XGBoost Classifier
-4) Naïve-Bayes Classifier
 ![image](https://user-images.githubusercontent.com/30859632/183070586-7a99fc4d-f6fe-457e-9c56-40a96facffda.png)
 
 
@@ -54,7 +50,21 @@ Classifier model has performed better than the other models.
 
 ![image](https://user-images.githubusercontent.com/30859632/183070869-b5a47bc1-1d2e-4f0c-bcaa-677137120886.png)
 
+Feature Importance:![image](https://user-images.githubusercontent.com/30859632/183071090-b6cefc26-8e19-4044-b8a8-2b2198b2154e.png)
+Most important feature according to Logistic Regression
+Model is Vehicle Damage followed by Age
 
+Previously Insured and Vehicle Damage are most important  features according to XGB Model.
+![image](https://user-images.githubusercontent.com/30859632/183071111-59efc0b1-7ce4-4f42-ad6c-f93be36b47cc.png)
+
+#Conclusion:![image](https://user-images.githubusercontent.com/30859632/183071166-cc2dac2a-6355-4ad3-893c-de33ba48a9d2.png)
+After loading the dataset, cleaning the data, performing EDA,
+
+Feature Engineering and after feature selection, Models are built.In terms Training and Testing Accuracy and ROC-AUC score, XGBoost Classifier gave  the best results.
+Vehicle_damage and Previously_Insured came out as the most important features for  the model.
+We will choose in this case is XGBoost Machine Learning. This model is able to predict the label of the target customer who is response and not response at an recall model with value 93% and Roc-AUC score at 96%.
+This means our model can improve our response rate for predicting customers who interested in subscribing vehicle insurance
+![image](https://user-images.githubusercontent.com/30859632/183071195-af88d895-8c42-4c47-a085-826896f1d822.png)
 
 
 
