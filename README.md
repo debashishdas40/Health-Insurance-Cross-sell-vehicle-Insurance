@@ -35,8 +35,7 @@ Previously Insured and Vehicle Damage are most important  features according to 
 ![image](https://user-images.githubusercontent.com/30859632/183071166-cc2dac2a-6355-4ad3-893c-de33ba48a9d2.png)
 ![image](https://user-images.githubusercontent.com/30859632/183071424-01294208-26b3-414b-a98f-f2eb105a6450.png)
 
-This means our model can improve our response rate for predicting customers who interested in subscribing vehicle insurance
-![image](https://user-images.githubusercontent.com/30859632/183071195-af88d895-8c42-4c47-a085-826896f1d822.png)
+
 
 
 
