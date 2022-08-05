@@ -58,11 +58,8 @@ Previously Insured and Vehicle Damage are most important  features according to 
 ![image](https://user-images.githubusercontent.com/30859632/183071111-59efc0b1-7ce4-4f42-ad6c-f93be36b47cc.png)
 
 #Conclusion:![image](https://user-images.githubusercontent.com/30859632/183071166-cc2dac2a-6355-4ad3-893c-de33ba48a9d2.png)
-After loading the dataset, cleaning the data, performing EDA,
+![image](https://user-images.githubusercontent.com/30859632/183071424-01294208-26b3-414b-a98f-f2eb105a6450.png)
 
-Feature Engineering and after feature selection, Models are built.In terms Training and Testing Accuracy and ROC-AUC score, XGBoost Classifier gave  the best results.
-Vehicle_damage and Previously_Insured came out as the most important features for  the model.
-We will choose in this case is XGBoost Machine Learning. This model is able to predict the label of the target customer who is response and not response at an recall model with value 93% and Roc-AUC score at 96%.
 This means our model can improve our response rate for predicting customers who interested in subscribing vehicle insurance
 ![image](https://user-images.githubusercontent.com/30859632/183071195-af88d895-8c42-4c47-a085-826896f1d822.png)
 
