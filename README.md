@@ -1,4 +1,9 @@
 # Health-Insurance-Cross-sell-vehicle-Insurance
+![image](https://user-images.githubusercontent.com/30859632/183071857-ebc792c9-e566-4654-a8df-cbff448ee681.png)
+
+
+
+
 Health Insurance Cross sell vehicle Insurance
 Cross-selling to existing clients has been one of the primary methods of generating new revenue for many businesses. Identifying the potential buyers among existing clients can help a company plan its communication strategy accordingly, thereby optimizing its business model and increasing revenue. In this project, our goal was to use the Health Insurance Cross-Sell dataset to understand Vehicle Insurance Cross Sale Responses, apply machine learning techniques to identify Vehicle Insurance buyers among pre-existing policyholders and provide explanations from the best classifying model to understand factors affecting customer responses.
 
