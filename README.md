@@ -2,9 +2,8 @@
 # Capstone Project 3 - Classification : Insurance Cross Sell Prediction
 This project is a part of the AlmaBetter Pro Program
 
-Project Summary :
-Problem Statement :
-To Prediction whether a customer will buy insurance(vehicle) or not.
+
+![image](https://user-images.githubusercontent.com/30859632/183071857-ebc792c9-e566-4654-a8df-cbff448ee681.png)
 
 About the Data :
 We have the data of which contains details of customers like id , age, gender and also contains the details of the customers vehicle
@@ -48,9 +47,9 @@ Loading the dataset
 
 # 4) HyperParameter Tuning
 
-# Final selection of the model
+# 5)Final selection of the model
 
-# Conclusion
+# 6)Conclusion
 
 
 # Google colab tools
@@ -59,7 +58,6 @@ Loading the dataset
 
 ![image](https://user-images.githubusercontent.com/30859632/183072029-587e7ab9-b159-4e2b-854f-36141d61f8b5.png)
 
-![image](https://user-images.githubusercontent.com/30859632/183071857-ebc792c9-e566-4654-a8df-cbff448ee681.png)
 ![image](https://user-images.githubusercontent.com/30859632/183072353-70092fc6-c994-4ca3-8dfd-e1364d6a5c34.png)
 ![image](https://user-images.githubusercontent.com/30859632/183072375-8e85d1b9-294f-47b9-b6d1-8b7a3586d389.png)
 ![image](https://user-images.githubusercontent.com/30859632/183072456-1860808b-77fa-4ab2-9151-b8459b4fdac3.png)
