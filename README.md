@@ -69,15 +69,14 @@ Loading the dataset
 
 
 Hyper-Parameter Tuning metod used:
-1. GridSearch CV
 ![image](https://user-images.githubusercontent.com/30859632/183070672-e42a7839-a2d0-46f6-a681-eab5dd0f84f6.png)
 
-# Results obtained after Training the Dataset :![image](https://user-images.githubusercontent.com/30859632/183070768-f904b32f-edd4-4c89-ae34-79715b62cc01.png)
+# Results obtained after Training the Dataset :
+![image](https://user-images.githubusercontent.com/30859632/183070768-f904b32f-edd4-4c89-ae34-79715b62cc01.png)
 
 ![image](https://user-images.githubusercontent.com/30859632/183070719-9cb810c8-8d8d-4e72-839c-d9c873dbba71.png)
 
-After training the models and comparing the results, it can be said that the XGBoost
-Classifier model has performed better than the other models.
+
 ![image](https://user-images.githubusercontent.com/30859632/183070809-893adb44-c260-4254-a3af-d537d95f18f3.png)
 
 Feature Importance:![image](https://user-images.githubusercontent.com/30859632/183071090-b6cefc26-8e19-4044-b8a8-2b2198b2154e.png)
@@ -85,7 +84,6 @@ Feature Importance:![image](https://user-images.githubusercontent.com/30859632/1
 ![image](https://user-images.githubusercontent.com/30859632/183070869-b5a47bc1-1d2e-4f0c-bcaa-677137120886.png)
 
 
-Previously Insured and Vehicle Damage are most important  features according to XGB Model.
 ![image](https://user-images.githubusercontent.com/30859632/183071111-59efc0b1-7ce4-4f42-ad6c-f93be36b47cc.png)
 
 ![image](https://user-images.githubusercontent.com/30859632/183071166-cc2dac2a-6355-4ad3-893c-de33ba48a9d2.png)
