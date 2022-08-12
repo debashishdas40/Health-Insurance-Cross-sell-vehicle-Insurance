@@ -39,13 +39,13 @@ Loading the dataset
 
 # Data Summary
 
- 1)Data Cleaning & Data Analysis
+1)Data Cleaning & Data Analysis
 
 2)Feature selection
 
 3)Implementing Various Classification Algorithms
 
-4) HyperParameter Tuning
+4)HyperParameter Tuning
 
 5)Final selection of the model
 
