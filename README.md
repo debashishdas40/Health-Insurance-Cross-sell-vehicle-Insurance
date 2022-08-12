@@ -39,20 +39,20 @@ Loading the dataset
 
 # Data Summary
 
-# 1)Data Cleaning & Data Analysis
+ 1)Data Cleaning & Data Analysis
 
-# 2)Feature selection
+2)Feature selection
 
-# 3)Implementing Various Classification Algorithms
+3)Implementing Various Classification Algorithms
 
-# 4) HyperParameter Tuning
+4) HyperParameter Tuning
 
-# 5)Final selection of the model
+5)Final selection of the model
 
-# 6)Conclusion
+6)Conclusion
 
 
-# Google colab tools
+Google colab tools
 
 
 
@@ -68,7 +68,7 @@ Loading the dataset
 ![image](https://user-images.githubusercontent.com/30859632/183070586-7a99fc4d-f6fe-457e-9c56-40a96facffda.png)
 
 
-Hyper-Parameter Tuning metod used:
+
 ![image](https://user-images.githubusercontent.com/30859632/183070672-e42a7839-a2d0-46f6-a681-eab5dd0f84f6.png)
 
 # Results obtained after Training the Dataset :
