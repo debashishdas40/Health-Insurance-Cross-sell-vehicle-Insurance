@@ -32,25 +32,25 @@ Vintage :- Number of Days, Customer has been associated with the company
 Response :- The customer is interested or not
 Target Variable :
 Response :- The customer is interested or not
-Project Work flow
-Importing Libraries
 
-Loading the dataset
+# Project Work flow
+1)Importing Libraries
 
-# Data Summary
+2)Loading the dataset
 
-1)Data Cleaning & Data Analysis
+3)Data Cleaning & Data Analysis
 
-2)Feature selection
+4)Feature selection
 
-3)Implementing Various Classification Algorithms
+5)Implementing Various Classification Algorithms
 
-4)HyperParameter Tuning
+6)HyperParameter Tuning
 
-5)Final selection of the model
+7)Final selection of the model
 
-6)Conclusion
+8)Conclusion
 
+Miscellaneous :
 
 Google colab tools
 
