@@ -1,9 +1,7 @@
 # Health-Insurance-Cross-sell-vehicle-Insurance
-Capstone Project 3 - Classification : Insurance Cross Sell Prediction
+# Capstone Project 3 - Classification : Insurance Cross Sell Prediction
 This project is a part of the AlmaBetter Pro Program
 
--- Project Status: [Completed]
--- Score: [ 78/ 100 ]
 Project Summary :
 Problem Statement :
 To Prediction whether a customer will buy insurance(vehicle) or not.
@@ -11,7 +9,7 @@ To Prediction whether a customer will buy insurance(vehicle) or not.
 About the Data :
 We have the data of which contains details of customers like id , age, gender and also contains the details of the customers vehicle
 
-Dataset info
+# Dataset info
 
 1.Number of records: 3,81,109
 
@@ -40,23 +38,22 @@ Importing Libraries
 
 Loading the dataset
 
-Data Summary
+# Data Summary
 
-Data Cleaning & Data Analysis
+# 1)Data Cleaning & Data Analysis
 
-Feature selection
+# 2)Feature selection
 
-Implementing Various Classification Algorithms
+# 3)Implementing Various Classification Algorithms
 
-HyperParameter Tuning
+# 4) HyperParameter Tuning
 
-Final selection of the model
+# Final selection of the model
 
-Conclusion
+# Conclusion
 
-Miscellaneous :
 
-Google colab tools
+# Google colab tools
 
 
 
